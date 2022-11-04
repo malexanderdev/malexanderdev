@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @malexanderdev
+- 👀 I’m interested in learning new things!
+- 🌱 I’m currently learning Front-end skills
+- 💞️ I’m looking to collaborate on HTML and CSS projects.
+- 📫 How to reach me @maya.alexander.dev@gmail.com
